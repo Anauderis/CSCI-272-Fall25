@@ -3,3 +3,6 @@ Assignments and practice codes for CSCI-272: Object-Oriented Programming in C++.
 
 ## Week 3
 Week 3 continues on the concept of functions - as introduced in week 2, and introduces the concept of arrays, vectors, and vector methods. 
+
+### In Class Examples
+These are in class codes that were written and explained by the instructor to enforce a concept for a given topic
